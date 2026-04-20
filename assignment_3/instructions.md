@@ -6,7 +6,8 @@ You will be creating a simple image upscaler using a convolutional autoencoder. 
 
 ## 1.
 Download the dataset provided. The dataset is segmented into training and testing. Note that the labels denoting if an image is a dog or a cat (through the filenames) of the images will not matter, as we will not be doing a classification. Due to this, do not segment your data into dog and cat categories.
-data: https://drive.google.com/open?id=1Ul4DIgCpj8fGm5BKt8mOxsa_GKTIDsB9
+
+Data: https://drive.google.com/open?id=1Ul4DIgCpj8fGm5BKt8mOxsa_GKTIDsB9
 ## 2.
 Process your images:
   - Your training data should be 28x28.
